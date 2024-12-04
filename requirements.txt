@@ -1,0 +1,4 @@
+pandas
+mysql.connector
+google.oauth2.service_account
+googleapiclient.discovery
